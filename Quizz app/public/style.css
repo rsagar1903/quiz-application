@@ -1,0 +1,20 @@
+body{
+    background-color: #bff5f1 !important ;
+    height: 100% !important;
+    width: 100% !important;
+
+}
+
+.button-container{
+    display: inline-block !important;
+}
+
+body {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: stretch !important;
+}  
+
+.nav-item{
+    color: black !important;
+}
